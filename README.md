@@ -1,3 +1,4 @@
 # Demo-repo
-My first git Repository
-Author-Sakshi Naik
+My first git Repository.
+<br>
+Author-Sakshi Naik.
